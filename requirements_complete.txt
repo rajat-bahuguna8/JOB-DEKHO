@@ -1,0 +1,35 @@
+# Job Dekho - Complete Requirements
+# This file includes all dependencies for both Flask and Streamlit versions
+
+# Core Web Frameworks
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.5
+streamlit==1.31.0
+
+# Database
+SQLAlchemy==2.0.23
+PyMySQL==1.1.0
+
+# Security & Authentication
+cryptography==41.0.3
+Werkzeug==2.3.7
+bcrypt==4.1.2
+
+# Text-to-Speech
+pyttsx3==2.90
+pywin32==306
+
+# Data & Visualization
+pandas==2.2.0
+plotly==5.18.0
+numpy==1.26.3
+
+# UI Components
+streamlit-option-menu==0.3.12
+Pillow==10.2.0
+
+# Utilities
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+watchdog==4.0.0

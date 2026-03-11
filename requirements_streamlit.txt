@@ -1,0 +1,10 @@
+streamlit
+pyttsx3
+SQLAlchemy
+pandas
+plotly
+streamlit-option-menu
+bcrypt
+Pillow
+python-dateutil
+watchdog
